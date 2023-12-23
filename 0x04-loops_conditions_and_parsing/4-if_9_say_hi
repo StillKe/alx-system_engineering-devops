@@ -10,7 +10,7 @@ do
  then
   echo "Hi"
  fi
- echo "Best Schol"
+ echo "Best School"
  (( count++ ))
 
 done
